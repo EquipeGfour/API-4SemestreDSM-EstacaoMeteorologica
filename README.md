@@ -14,31 +14,38 @@
 
 <span id="Objetivo">
 <h2> :briefcase: Objetivo do Projeto </h2>
-<p>A UOL oferece soluções que facilitam o dia a dia das pessoas. As soluções, em sua maioria, são ofertadas por um plataforma on-line, que está em constante evolução para melhorar a experiência do usuário. Uma das evoluções na plataforma é a Venda-Cruzada (Cross-Selling).</p>
+<p>Este projeto tem como objetivo apresentar os principais razões de criar uma estação meteorológica.</p>
 
-<p>A cross-selling é uma técnica de vendas que envolve a venda de um produto ou serviço adicional a um cliente existente, dependendo das suas necessidades. Na prática, as empresas definem a venda cruzada de muitas maneiras diferentes. São várias as influências que definem como aplicar a cross-
-selling, algumas delas são: o tamanho do negócio, o tipo de cliente e seus objetivos, o setor industrial ou comercial em que o cliente opera.</p>
+<p>A estação meteorológica é um dispositivo que coleta dados meteorológicos em tempo real, como temperatura, umidade, pressão atmosférica, direção e velocidade do vento, radiação solar, entre outros.</p>
 
-<p>Foi observado que incentivar o cross-selling de outros produtos dentro da página de compra, pode garantir que o cliente contrate o que precisa em um único checkout (acesso) e consequentemente auxilia no aumento de receita da área de negócio.
-Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM podem contribuir com alternativas disruptivas de cross-selling de produtos UOL.</p>
+<p>O principal objetivo de criar uma estação meteorológica é coletar dados meteorológicos em tempo real. Esses dados serão coletados por meio de sensores instalados na estação e serão enviados para um servidor na nuvem por meio de uma conexão com a internet. Os dados serão coletados em um tempo determinado e serão disponibilizados para os usuários da estação meteorológica.</p>
+
+<p>A estação meteorológica será capaz de monitorar as condições climáticas em tempo real. Com a coleta de dados meteorológicos, os usuários da estação poderão monitorar as condições climáticas em sua região, incluindo temperatura, umidade, pressão atmosférica, direção e velocidade do vento, radiação solar, entre outros (esses dados vão depender dos sensores disponíveis em cada estação).</p>
+
+<p>A estação meteorológica poderá ser utilizada para desenvolver projetos de pesquisa em diversas áreas, como geografia, meio ambiente, agricultura, entre outras. Os dados coletados pela estação meteorológica poderão ser utilizados em pesquisas para entender melhor as condições climáticas em diferentes regiões e como elas afetam a natureza e a sociedade.
+</p>
 <br>
 
 ### 🎯 Entregas
 
 Sprint ID | Data | Tag | Status
 ----------|------|-----|--------
-#1 | 29/08 - 18/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)|:white_check_mark:|
-#2 | 19/09 - 09/10 |[Sprint 2](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint02)|:white_check_mark:|
-#3 | 17/10 - 06/11 |[Sprint 3](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint03)|:white_check_mark:| 
-#4 | 07/11 - 27/11 |[Sprint 4](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint04)|:white_check_mark:| 
+#1 | 13/02 - 02/04 |[Sprint 1](https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica)|:part_alternation_mark:|
+#2 | 03/04 - 23/04 |[Sprint 2](https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica)|:o:|
+#3 | 24/04 - 14/05 |[Sprint 3](https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica)|:o:| 
+#4 | 15/05 - 04/06 |[Sprint 4](https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica)|:o:| 
 <br>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
 
-Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---frontend
+Link do Repositório do Front-End: https://github.com/EquipeGfour/Estacao-Metereologica-Front-end
 
-Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
+Link do Repositório do Back-End: https://github.com/EquipeGfour/Estacao-Metereologica-Back-end
+
+Link do Repositório do Back-End Embarcado: https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado
+
+Link do Repositório do Dispositivi Móvel: https://github.com/EquipeGfour/Estacao-Metereologica-Mobile
 <br>
 <br>
 <span id="tecnologias">
@@ -91,6 +98,6 @@ Vinícius Andrade Barborsa | DT | [Linkedin](https://br.linkedin.com/in/kevin-mi
 
 </div>
  
- <h5 align="center">  Projeto Integrador 2022 - Fatec São José dos Campos </h5>
+ <h5 align="center">  Projeto Integrador 2023-1 - Fatec São José dos Campos </h5>
  
  → [Voltar ao topo](#topo)
