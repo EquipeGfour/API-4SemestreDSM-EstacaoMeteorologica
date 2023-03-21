@@ -26,6 +26,33 @@
 </p>
 <br>
 
+<span id="backlog">
+<h2> :briefcase: Backlog do Produto </h2>
+
+--- | Backlog do Produto
+----|-------------------
+#1 | Fluxo Do Projeto |
+#2 | Banco De Dados |
+#3 | CRUD Da Estação |
+#4 | Processos |
+#5 | Desenvolvimento Do Dataloggger |
+#6 | Montagem Da Estação |
+#7 | Simulação De Envio De Dadaos Da Estação |
+#8 | Tutorial Para Os Alunos |
+<br>
+
+<span id="#userstories">
+<h2> :left_speech_bubble: User Stories </h2>
+
+--- | Ator | Ação | Motivo
+----|------|------|--------
+#1 | Administrador | Criar Estações | Gerar Dados
+#2 | Administrador | Cadastrar Sensores | Ter Variedades De Dados
+#3 | Administrador | Gerar Conteúdos | Objetivar Os Dados Gerados
+#4 | Usuário | Cadastro | Ter Acesso A Mais Informações
+#5 | Usuário | Navegar No Portal | Buscar Informações Metereológicas
+#6 | Usuário/Administrador | Pesquisa | Gerar Conteúdos Para Melhorias Para O Uso Dos Dados 
+
 ### 🎯 Entregas
 
 Sprint ID | Data | Tag | Status
