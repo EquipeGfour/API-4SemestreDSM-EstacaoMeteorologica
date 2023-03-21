@@ -92,6 +92,8 @@ Link do Repositório do Dispositivi Móvel: https://github.com/EquipeGfour/Estac
 
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/C%2B%2B-CED4DA?style=for-the-badge&logo=c%2B%2B&logoColor=4EA94B"
+
 </p>
 <br>
 
