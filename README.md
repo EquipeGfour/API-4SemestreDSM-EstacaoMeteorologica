@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> FATEC Profº Jessen Vidal, SJC - 4º Semestre DSM - API UOL </h1>
+<h1 align="center"> FATEC Profº Jessen Vidal, SJC - 4º Semestre DSM - API Tecsus </h1>
 <br id="topo">
 <p align="center">
     <a href="#Objetivo">Objetivo</a>  |  
@@ -35,7 +35,7 @@
 #2 | Banco De Dados |
 #3 | CRUD Da Estação |
 #4 | Processos |
-#5 | Desenvolvimento Do Dataloggger |
+#5 | Desenvolvimento Do Datalogger |
 #6 | Montagem Da Estação |
 #7 | Simulação De Envio De Dadaos Da Estação |
 #8 | Tutorial Para Os Alunos |
@@ -79,7 +79,6 @@ Link do Repositório do Dispositivi Móvel: https://github.com/EquipeGfour/Estac
 <h2>:wrench: Tecnologias Utilizadas</h2>
 <p>
 <p> Comunicação <p>
-<img src="https://img.shields.io/badge/Slack-CED4DA?style=for-the-badge&logo=slack&logoColor=4A154B"/> 
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=5865F2"/> 
 <img src="https://img.shields.io/badge/Trello-CED4DA?style=for-the-badge&logo=trello&logoColor=0052CC"/>
 <p> Desenvolvimento <p>
