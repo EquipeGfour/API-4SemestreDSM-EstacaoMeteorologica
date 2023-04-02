@@ -52,6 +52,13 @@
 #4 | Usuário | Cadastro | Ter Acesso A Mais Informações
 #5 | Usuário | Navegar No Portal | Buscar Informações Metereológicas
 #6 | Usuário/Administrador | Pesquisa | Gerar Conteúdos Para Melhorias Para O Uso Dos Dados 
+	
+	
+<span id="modelo">
+<h2> :clipboard: Modelo de Dados</h2>
+<h1 align="center">
+<img src = "/docs/banco.png"></h1>
+<br>
 
 ### 🎯 Entregas
 
