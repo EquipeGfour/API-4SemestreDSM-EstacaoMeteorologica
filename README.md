@@ -80,6 +80,8 @@ Link do Repositório do Back-End: https://github.com/EquipeGfour/Estacao-Metereo
 Link do Repositório do Back-End Embarcado: https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado
 
 Link do Repositório do Dispositivi Móvel: https://github.com/EquipeGfour/Estacao-Metereologica-Mobile
+
+link do Repositório de Testes Da Estação Metereológica: https://github.com/EquipeGfour/Teste-Estacao-Meteorologia
 <br>
 <br>
 <span id="tecnologias">
