@@ -14,7 +14,7 @@
 
 <span id="Objetivo">
 <h2> :briefcase: Objetivo do Projeto </h2>
-<p>Este projeto tem como objetivo apresentar os principais razões de criar uma estação meteorológica.</p>
+<p>Este projeto tem como objetivo criar uma estação meteorológica.</p>
 
 <p>A estação meteorológica é um dispositivo que coleta dados meteorológicos em tempo real, como temperatura, umidade, pressão atmosférica, direção e velocidade do vento, radiação solar, entre outros.</p>
 
