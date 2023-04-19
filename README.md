@@ -62,12 +62,12 @@
 
 ### 🎯 Entregas
 
-Sprint ID | Data | Tag-Front | Tag-Back | Status
-----------|------|-----|-----|--------
-#1 | 13/02 - 02/04 |[Sprint 1](https://github.com/EquipeGfour/Estacao-Metereologica-Front-end/releases/tag/v.1.0.0)|[Sprint 1](https://github.com/EquipeGfour/Estacao-Metereologica-Back-end/releases/tag/V.1.0.0)|:white_check_mark:|
-#2 | 03/04 - 23/04 |[Sprint 2](https://github.com/EquipeGfour/Estacao-Metereologica-Front-end/releases/tag/v.2.0.0)|[Sprint 2](https://github.com/EquipeGfour/Estacao-Metereologica-Back-end/releases/tag/v.2.0.0)|:white_check_mark:|
-#3 | 24/04 - 14/05 |:o:|:o:|:o:| 
-#4 | 15/05 - 04/06 |:o:|:o:|:o:| 
+Sprint ID | Data | Tag-Front | Tag-Back | Tag-Embarcado | Status
+----------|------|-----|-----|--------|---------
+#1 | 13/02 - 02/04 |[Sprint 1](https://github.com/EquipeGfour/Estacao-Metereologica-Front-end/releases/tag/v.1.0.0)|[Sprint 1](https://github.com/EquipeGfour/Estacao-Metereologica-Back-end/releases/tag/V.1.0.0) |:o:|:white_check_mark:|
+#2 | 03/04 - 23/04 |[Sprint 2](https://github.com/EquipeGfour/Estacao-Metereologica-Front-end/releases/tag/v.2.0.0)|[Sprint 2](https://github.com/EquipeGfour/Estacao-Metereologica-Back-end/releases/tag/v.2.0.0)|[Sprint 2](https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado/releases/tag/v.1.0.0)|:white_check_mark:|
+#3 | 24/04 - 14/05 |:o:|:o:|:o:|:o:|
+#4 | 15/05 - 04/06 |:o:|:o:|:o:|:o:| 
 <br>
 
 <span id="links">
