@@ -79,7 +79,7 @@ Link do Repositório do Back-End: https://github.com/EquipeGfour/Estacao-Metereo
 
 Link do Repositório do Back-End Embarcado: https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado
 
-Link do Repositório do Dispositivi Móvel: https://github.com/EquipeGfour/Estacao-Metereologica-Mobile
+Link do Repositório do Dispositivo Móvel: https://github.com/EquipeGfour/Estacao-Metereologica-Mobile
 
 link do Repositório de Testes Da Estação Metereológica: https://github.com/EquipeGfour/Teste-Estacao-Meteorologia
 <br>
@@ -100,7 +100,8 @@ link do Repositório de Testes Da Estação Metereológica: https://github.com/E
 
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-<img src="https://img.shields.io/badge/C%2B%2B-CED4DA?style=for-the-badge&logo=c%2B%2B&logoColor=4EA94B"
+<img src="https://img.shields.io/badge/C%2B%2B-CED4DA?style=for-the-badge&logo=c%2B%2B&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/Selenium-CED4DA?style=for-the-badge&logo=selenium&logoColor=61DAFB"/>
 
 </p>
 <br>
