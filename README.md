@@ -58,7 +58,7 @@
 <span id="modelo">
 <h2> :clipboard: Modelo de Dados</h2>
 <h1 align="center">
-<img src = "/docs/banco.png"></h1>
+<img src = "/docs/db.png"></h1>
 <br>
 
 ### 🎯 Entregas
