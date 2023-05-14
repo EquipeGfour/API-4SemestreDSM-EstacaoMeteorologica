@@ -30,7 +30,7 @@
 <h2> :bookmark_tabs: Backlog do Produto </h2>
 
 --- | Backlog do Produto | Status |
-----|-------------------
+----|------------------- | ------
 #1 | Fluxo Do Projeto | Alto |
 #2 | Banco De Dados | Alto |
 #3 | CRUD Da Estação | Alto |
