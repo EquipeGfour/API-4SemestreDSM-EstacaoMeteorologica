@@ -29,16 +29,16 @@
 <span id="backlog">
 <h2> :bookmark_tabs: Backlog do Produto </h2>
 
---- | Backlog do Produto
+--- | Backlog do Produto | Status |
 ----|-------------------
-#1 | Fluxo Do Projeto |
-#2 | Banco De Dados |
-#3 | CRUD Da Estação |
-#4 | Processos |
-#5 | Desenvolvimento Do Datalogger |
-#6 | Montagem Da Estação |
-#7 | Simulação De Envio De Dadaos Da Estação |
-#8 | Tutorial Para Os Alunos |
+#1 | Fluxo Do Projeto | Alto |
+#2 | Banco De Dados | Alto |
+#3 | CRUD Da Estação | Alto |
+#4 | Processos | Médio |
+#5 | Desenvolvimento Do Datalogger | Alto |
+#6 | Montagem Da Estação | Alto |
+#7 | Simulação De Envio De Dadaos Da Estação | Médio |
+#8 | Tutorial Para Os Alunos | Baixo |
 🔗 | [Backlog por Sprint](https://docs.google.com/document/d/1kECz8mn7UBylxL2PJYfd3QBeSv1SXjSDf6k_uKoqY1A/edit?usp=sharing) | 
 <br>
 
