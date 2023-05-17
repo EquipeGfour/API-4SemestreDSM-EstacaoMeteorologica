@@ -32,13 +32,23 @@
 --- | Backlog do Produto | Status |
 ----|------------------- | ------
 #1 | Fluxo Do Projeto | Alto |
-#2 | Banco De Dados | Alto |
-#3 | CRUD Da Estação | Alto |
-#4 | Processos | Médio |
-#5 | Desenvolvimento Do Datalogger | Alto |
-#6 | Montagem Da Estação | Alto |
-#7 | Simulação De Envio De Dadaos Da Estação | Médio |
-#8 | Tutorial Para Os Alunos | Baixo |
+#2 | Estruturar Banco De Dados Relacional | Alto |
+#3 | Estruturar Banco de Dados Não Relacional | Alto |
+#4 | Desenvolvimento Da Lógica Do Projeto | Alto |
+#5 | Lógica De Recebimento De Dados Da Estação | Alto |
+#6 | Lógica Do Envio De Dados Da Estação | Alto |
+#7 | Criação Do Layout Do Projeto | Alto |
+#8 | Cadastro Da Estação | Alto |
+#9 | Cadastro Dos Parâmetros | Alto |
+#10 | Cadastro De Alertas | Médio |
+#11 | Cadastro De Usuário Administrador | Baixo |
+#12 | Criação De Testes | Médio |
+#13 | Editar e Excluir Parâmetros | Alto |
+#14 | Criação De Gráficos Com os Dadaos Gerados | Alto |
+#15 | Desenvolvimento Do Datalogger | Alto |
+#16 | Montagem Da Estação | Alto |
+#17 | Simulação De Envio De Dadaos Da Estação | Médio |
+#18 | Tutorial Para Os Alunos | Baixo |
 🔗 | [Backlog por Sprint](https://docs.google.com/document/d/1kECz8mn7UBylxL2PJYfd3QBeSv1SXjSDf6k_uKoqY1A/edit?usp=sharing) | 
 <br>
 
