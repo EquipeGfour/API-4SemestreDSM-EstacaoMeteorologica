@@ -89,7 +89,6 @@ Documentação relacionada a parte de CI:
 https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md
 
 <br>
-<br>
 <span id="tecnologias">
 <h2>:wrench: Tecnologias Utilizadas</h2>
 <p>
