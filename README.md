@@ -82,17 +82,10 @@ Sprint ID | Data | Tag-Front | Tag-Back | Tag-Embarcado | Backlog | Status
 <br>
 
 <span id="links">
-<h2>:card_file_box: Links Úteis</h2>
+<h2>:card_file_box: Link para Documentação</h2>
 
-Link do Repositório do Front-End: https://github.com/EquipeGfour/Estacao-Metereologica-Front-end
+Documentação: https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md
 
-Link do Repositório do Back-End: https://github.com/EquipeGfour/Estacao-Metereologica-Back-end
-
-Link do Repositório do Back-End Embarcado: https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado
-
-Link do Repositório do Dispositivo Móvel: https://github.com/EquipeGfour/Estacao-Metereologica-Mobile
-
-link do Repositório de Testes Da Estação Metereológica: https://github.com/EquipeGfour/Teste-Estacao-Meteorologia
 <br>
 <br>
 <span id="tecnologias">
