@@ -84,7 +84,8 @@ Sprint ID | Data | Tag-Front | Tag-Back | Tag-Embarcado | Backlog | Status
 <span id="links">
 <h2>:card_file_box: Link para Documentação</h2>
 
-Documentação relacionada a parte de CI: 
+Documentação relacionada a parte de CI:
+<br>
 https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md
 
 <br>
