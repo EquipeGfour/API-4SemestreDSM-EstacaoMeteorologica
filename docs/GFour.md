@@ -35,4 +35,4 @@ Documentação da API feita no Swagger, que inclui todos os arquivos necessário
  [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub - Versão 1.0.0](https://app.swaggerhub.com/apis-docs/VINIZEUS2002/api-tec_sus/1.0.0)
 
 
-<p align="right"><a href="#topo">Voltar ao Topo</p> 
+<p align="center"><a href="#topo">Voltar ao Topo</p> 
