@@ -6,7 +6,7 @@
     <a href="#backlog">Backlog do Produto</a>  |
     <a href="#userstories">User Stories</a>  |
     <a href="#modelo">Modelo de Dados</a>  |
-    <a href="#links">Links</a>  |  
+    <a href="#links">Documentação relacionada a parte de CI</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe GFour</a>
 </p>
