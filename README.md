@@ -13,12 +13,12 @@
 <br>
 <h2 align="center"> Links Dos Repositórios </h2>
 	
-> ### 📁 <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Front-end">/Estacao-Metereologica-Front-end</a>
+> ### :outbox_tray: <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Front-end">/Estacao-Metereologica-Front-end</a>
 
-> ### 📁 <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Back-end">/Estacao-Metereologica-Back-end</a>
+> ### :outbox_tray: <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Back-end">/Estacao-Metereologica-Back-end</a>
 
-> ### 📁 <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado">/Estacao-Metereologica-Back-end-Embarcado</a>
-
+> ### :outbox_tray: <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado">/Estacao-Metereologica-Back-end-Embarcado</a>
+<br>
 <span id="Objetivo">
 <h2> :briefcase: Objetivo do Projeto </h2>
 <p>Este projeto tem como objetivo criar uma estação meteorológica.</p>
@@ -93,7 +93,7 @@ Sprint ID | Data | Tag-Front | Tag-Back | Tag-Embarcado | Backlog | Status
 
 Documentação relacionada a parte de CI:
 <br>
-https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md
+> ### 📁 <a href="https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md">/Ducumentação de CI</a>
 
 <br>
 <span id="tecnologias">
