@@ -10,7 +10,14 @@
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe GFour</a>
 </p>
+<br>
+<h2 align="center"> Links Dos Repositórios </h2>
+	
+> ### 📁 <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Front-end">/Estacao-Metereologica-Front-end</a>
 
+> ### 📁 <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Back-end">/Estacao-Metereologica-Back-end</a>
+
+> ### 📁 <a href="https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado">/Estacao-Metereologica-Back-end-Embarcado</a>
 
 <span id="Objetivo">
 <h2> :briefcase: Objetivo do Projeto </h2>
