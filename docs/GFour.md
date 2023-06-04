@@ -40,67 +40,67 @@ Documentação da API feita no Swagger, que inclui todos os arquivos necessário
   
 O Model será responsável por lidar com o armazenamento e processamento dos dados brutos coletados pela estação meteorológica, bem como o armazenamento dos dados tratados em um banco de dados SQL.
  
-Banco de dados NoSQL: MongoDB;
+ -Banco de dados NoSQL: MongoDB;
  
-Banco de dados SQL: MySQL.
+ -Banco de dados SQL: MySQL.
 
 <b>View</b>
 
 A View será responsável pela apresentação dos dados coletados pela estação meteorológica aos usuários do sistema.
  
-Framework para construção de interface: React;
+ -Framework para construção de interface: React;
  
-Biblioteca de gráficos: highcharts.js.
+ -Biblioteca de gráficos: highcharts.js.
 
 <b>Controller</b>
 
 O Controller será responsável pela integração entre a View e o Model, além de coordenar as ações do usuário no sistema.
 
- Linguagem de programação: TypeScript;
+  -Linguagem de programação: TypeScript;
 
- Framework web: Node.js;
+  -Framework web: Node.js;
 
- Biblioteca para conexão com HTTP:express.js;
+  -Biblioteca para conexão com HTTP:express.js;
 
- Biblioteca para conexão com MongoDB: MongoDrive;
+  -Biblioteca para conexão com MongoDB: MongoDrive;
 
- Biblioteca para conexão com MySQL: mysql.
+  -Biblioteca para conexão com MySQL: mysql.
 
 ### Podemos definir uma arquitetura MVC para o projeto da seguinte forma:
 
 ### Model
 
-Estação meteorológica: ESP32;
+ - Estação meteorológica: ESP32;
  
-Linguagem de programação: C++;
+ - Linguagem de programação: C++;
  
-Protocolo de envio de dados: HTTP;
+ - Protocolo de envio de dados: HTTP;
  
-Banco de dados NoSQL: MongoDB;
+ - Banco de dados NoSQL: MongoDB;
  
-Biblioteca de conexão HTTP: express.js;
+ - Biblioteca de conexão HTTP: express.js;
  
-Biblioteca para conexão com MongoDB: MongoDrive;
+ - Biblioteca para conexão com MongoDB: MongoDrive;
  
-Biblioteca para conexão com MySQL: mysql.
+ - Biblioteca para conexão com MySQL: mysql.
 
 ### View
 
-Framework para construção de interface: React;
+ - Framework para construção de interface: React;
  
-Biblioteca de gráficos: highcharts.js.
+ - Biblioteca de gráficos: highcharts.js.
 
 ### Controller
 
-Linguagem de programação: TypeScript;
+ - Linguagem de programação: TypeScript;
  
-Framework web: Node.js;
+ - Framework web: Node.js;
  
-Biblioteca para conexão com HTTP: express.js;
+ - Biblioteca para conexão com HTTP: express.js;
  
-Biblioteca para conexão com MongoDB: MongoDrive;
+ - Biblioteca para conexão com MongoDB: MongoDrive;
  
-Biblioteca para conexão com MySQL: mysql.
+ - Biblioteca para conexão com MySQL: mysql.
 
 #### A arquitetura MVC acima descrita tem como objetivo separar as responsabilidades do sistema em três componentes principais:
 
