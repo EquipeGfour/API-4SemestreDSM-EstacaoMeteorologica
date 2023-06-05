@@ -18,9 +18,14 @@ Estação Meteorológica - API Tecsus
 Links dos Repositórios
 ----------------------
 
-- [Estacao-Metereologica-Front-end](https://github.com/seu-usuario/Estacao-Metereologica-Front-end)
-- [Estacao-Metereologica-Back-end](https://github.com/seu-usuario/Estacao-Metereologica-Back-end)
-- [Estacao-Metereologica-Back-end-Embarcado](https://github.com/seu-usuario/Estacao-Metereologica-Back-end-Embarcado)
+- [Estacao-Metereologica-Front-end]
+https://github.com/EquipeGfour/Estacao-Metereologica-Front-end
+
+- [Estacao-Metereologica-Back-end]
+https://github.com/EquipeGfour/Estacao-Metereologica-Back-end
+
+- [Estacao-Metereologica-Back-end-Embarcado]
+https://github.com/EquipeGfour/Estacao-Metereologica-Back-end-Embarcado
 
 Objetivo do Projeto
 -------------------
