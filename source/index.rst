@@ -12,53 +12,21 @@ Welcome to API TECSUS's documentation!
 
 .. _index:
 
-FATEC Profº Jessen Vidal, SJC - 4º Semestre DSM - API Tecsus
-.. contents::
-:backlinks: none
+Estação Meteorológica - API Tecsus
+==================================
 
-Links Dos Repositórios
-Estacao-Metereologica-Front-end </Estacao-Metereologica-Front-end>_
-Estacao-Metereologica-Back-end </Estacao-Metereologica-Back-end>_
-Estacao-Metereologica-Back-end-Embarcado </Estacao-Metereologica-Back-end-Embarcado>_
+Links dos Repositórios
+----------------------
+
+- [Estacao-Metereologica-Front-end](https://github.com/seu-usuario/Estacao-Metereologica-Front-end)
+- [Estacao-Metereologica-Back-end](https://github.com/seu-usuario/Estacao-Metereologica-Back-end)
+- [Estacao-Metereologica-Back-end-Embarcado](https://github.com/seu-usuario/Estacao-Metereologica-Back-end-Embarcado)
+
 Objetivo do Projeto
-.. _Objetivo:
+-------------------
 
-:briefcase: Objetivo do Projeto
+O objetivo deste projeto é criar uma estação meteorológica que coleta dados meteorológicos em tempo real, como temperatura, umidade, pressão atmosférica, direção e velocidade do vento, radiação solar, entre outros.
 
-Este projeto tem como objetivo criar uma estação meteorológica.
+A estação meteorológica será composta por sensores que coletam esses dados e os enviam para um servidor na nuvem por meio de uma API. Os dados coletados serão armazenados em um banco de dados e estarão disponíveis para acesso e visualização pelos usuários.
 
-A estação meteorológica é um dispositivo que coleta dados meteorológicos em tempo real, como temperatura, umidade, pressão atmosférica, direção e velocidade do vento, radiação solar, entre outros.
-
-O principal objetivo de criar uma estação meteorológica é coletar dados meteorológicos em tempo real. Esses dados serão coletados por meio de sensores instalados na estação e serão enviados para um servidor na nuvem por meio de uma conexão com a internet. Os dados serão coletados em um tempo determinado e serão disponibilizados para os usuários da estação meteorológica.
-
-A estação meteorológica será capaz de monitorar as condições climáticas em tempo real. Com a coleta de dados meteorológicos, os usuários da estação poderão monitorar as condições climáticas em sua região, incluindo temperatura, umidade, pressão atmosférica, direção e velocidade do vento, radiação solar, entre outros (esses dados vão depender dos sensores disponíveis em cada estação).
-
-A estação meteorológica poderá ser utilizada para desenvolver projetos de pesquisa em diversas áreas, como geografia, meio ambiente, agricultura, entre outras. Os dados coletados pela estação meteorológica poderão ser utilizados em pesquisas para entender melhor as condições climáticas em diferentes regiões e como elas afetam a natureza e a sociedade.
-
-Backlog do Produto
-------------------
-
-.. _backlog:
-
-:bookmark_tabs: Backlog do Produto
-+-----+-------------------+--------+
-| | Backlog do Produto | Status |
-+=====+===================+========+
-| #1 | Fluxo Do Projeto | Alto |
-+-----+-------------------+--------+
-| #2 | Estruturar Banco | Alto |
-| | De Dados | |
-| | Relacional | |
-+-----+-------------------+--------+
-| #3 | Estruturar Banco | Alto |
-| | de Dados Não | |
-| | Relacional | |
-+-----+-------------------+--------+
-| #4 | Desenvolvimento | Alto |
-| | Da Lógica Do | |
-| | Projeto | |
-+-----+-------------------+--------+
-| #5 | Lógica De | Alto |
-| | Recebimento De | |
-| | Dados Da Estação | |
-+-----+-------------------+--------+
+Além disso, o projeto também contempla o desenvolvimento de um front-end para exibir os dados coletados de forma gráfica e intuitiva, permitindo que os usuários acompanhem as condições meteorológicas em tempo real.
