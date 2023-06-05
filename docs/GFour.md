@@ -16,8 +16,8 @@ A aplicação foi desenvolvida em torno de um conjunto de regras de negócio esp
 Contém o codigo desenvolvido, ultilizando Arduino e Linguagem C como tecnologias, onde a placa ESP32 é responsável por enviar dados ao banco de dados mongodb.
  
 > ### 📁 <a href="https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica">/Documentação</a>:
-Documentação da API feita no Swagger, que inclui todos os arquivos necessários para rodar a aplicação em local host.
- <a href="(https://api-4semestredsm-estacaometeorologica.readthedocs.io/en/latest/#)">Documentação no ReadTheDoc</a>
+Documentação da API feita no Swagger, que inclui todos os arquivos necessários para rodar a aplicação em local host.<br>
+ <a href="https://api-4semestredsm-estacaometeorologica.readthedocs.io/en/latest/#">Documentação no ReadTheDoc</a>
 
 
 ## :railway_track: Estrutura das Branchs
