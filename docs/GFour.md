@@ -34,6 +34,55 @@ Documentação da API feita no Swagger, que inclui todos os arquivos necessário
    
  [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub - Versão 1.0.0](https://app.swaggerhub.com/apis-docs/VINIZEUS2002/api-tec_sus/1.0.0)
 
+  ## Deploy 
+ <details>
+   <summary><b>Ansible e Aws(EC2)</b></summary>
+ 
+ <br>
+ O uso Ansible desta ferramenta em um fluxo de CI/CD é essencial para automatizar a implantação do backend da Estação Meteorológica. O playbook fornecido descreve uma série de tarefas que visam preparar o ambiente, clonar o repositório do projeto e configurar as dependências necessárias e conforme o ansible fica rodando em segundo plano com o serviço do proprio Linux.
+
+Ao utilizar o Ansible em um fluxo de CI, é possível integrá-lo com outras ferramentas de automação e gerenciamento, como Jenkins, GitLab CI/CD. Essa integração permitirá a execução automatizada do playbook em cada estágio do pipeline de CI, garantindo uma implantação consistente e confiável do backend da Estação Meteorológica.
+
+Além disso, a utilização do Ansible oferece vantagens como a automação de tarefas repetitivas, a reprodutibilidade do ambiente de implantação e a capacidade de versionar a configuração como código. Isso significa que qualquer alteração no playbook pode ser rastreada e revertida, facilitando a colaboração e a manutenção do projeto.
+
+Ao realizar a execução do playbook em um estágio de CI, você pode ter confiança de que a infraestrutura será configurada corretamente, as dependências serão instaladas e o ambiente estará pronto para a execução da Estação Meteorológica. Isso contribui para a eficiência do processo de desenvolvimento, permitindo que você se concentre na implementação e nos testes do seu código, sem se preocupar com a configuração manual do ambiente.
+
+Em suma, o uso do Ansible em seu projeto de CI/CD é uma escolha acertada, pois ele oferece automação, padronização e escalabilidade no processo de implantação do backend da Estação Meteorológica, tornando-o mais eficiente e confiável.
+
+
+os arquivos do projeto para o Deploy estão, sendo:
+### 📁 Api/Estacao-Metereologica-Back-end
+### :lock: api-estacao-meteorologica.pem : arquivo de Token do Aws
+### :lock: FATEC2.pem :arquivo de Token do Aws
+### 💼 hosts : arquivo de referencia da rota do Aws 
+### 💼 playbook.yml : arquivo de Tarefas do arquivo do ansible 
+
+
+Comandos para rodar o deploy:
+
+sudo ansible-playbook playbook.yml -u ubuntu --private-key api-estacao-meteorologica.pem -i hosts.yml
+
+mysql -h localhost -u root -p password
+<br>
+para instalar o ansible
+ <br>
+sudo apt update
+<br>
+sudo apt install software-properties-common
+<br>
+sudo add-apt-repository --yes --update ppa:ansible/ansible
+<br>
+sudo apt-get install ansible
+ <br>
+# entrar na maquina
+ssh -i "api-estacao-meteorologica.pem" ubuntu@ec2-35-161-181-93.us-west-2.compute.amazonaws.com
+<br>
+# comando para clonar os arquivos para o ec2
+sudo scp -i api-estacao-meteorologica.pem hosts.yml ubuntu@ec2-34-211-225-156.us-west-2.compute.amazonaws.com:/home/ubuntu/api
+
+</details>
+ 
+ 
  ## Padrão MVC adotado pelo time
 
 <b>Model</b>
