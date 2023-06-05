@@ -34,6 +34,45 @@ Documentação da API feita no Swagger, que inclui todos os arquivos necessário
    
  [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub - Versão 1.0.0](https://app.swaggerhub.com/apis-docs/VINIZEUS2002/api-tec_sus/1.0.0)
 
+ ## Testes Unitários Utilizando Pytest
+<details>
+   <summary><b>Testes Unitários</b></summary>
+   <br>
+O objetivo dos testes unitários é verificar as menores unidades isoladamente, garantindo que a lógica de cada uma delas está correta e que funciona conforme o esperado. Possuem baixo custo para automatização e podem ser executados rapidamente, inclusive por um servidor de integração contínua.
+
+Geralmente são realizados de forma isolada do restante do sistema, visto que tem por objetivo assegurar a qualidade das unidades de forma individual e não o sistema como um todo.
+
+No nosso projeto, aplicamos os testes unitários na funcionalidade de CRUD das estações, onde verificamos :
+  * Cadastro das Estações com informações validas e inválidas;
+  * Busca de Estações cadastradas e retorno de erro quando não existem;
+  * Edição de Estações;
+  * Exclusão de Estações.
+
+Os arquivos de Testes estão:
+### 📁 Api/Estacao-Metereologica-Back-end/testes
+
+Como Executar os testes:
+
+Com o repositório clonado, crie uma venv:
+  * python -m venv "nome da venv" ou
+  * python3 -m venv "nome da venv"
+
+
+Ative a venv:
+  * cd venv/Scripts/activate
+
+
+Instale as dependências:
+  * pip install -r requirements.txt
+
+
+Para executar os testes:
+  * pytest
+
+
+</details>
+
+  
   ## Deploy 
  <details>
    <summary><b>Ansible e Aws(EC2)</b></summary>

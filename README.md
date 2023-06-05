@@ -93,7 +93,7 @@ Sprint ID | Data | Tag-Front | Tag-Back | Tag-Embarcado | Backlog | Status
 
 Documentação relacionada a parte de CI:
 <br>
-> ### 📁 <a href="https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md">/Ducumentação de CI</a>
+> ### 📁 <a href="https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica/blob/main/docs/GFour.md">/Documentação de CI</a>
 
 <br>
 <span id="tecnologias">
